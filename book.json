@@ -4,14 +4,14 @@
       "fileName": "1.jpg",
       "book_name": "Mobile Web Development",
       "author": "Nirav Mehta",
-      "shelf": "wantToRead",
+      "shelf": "none",
       "book_id": 1
     },
     {
       "fileName": "2.jpg",
       "book_name": "MEAN Web Development",
       "author": "Amos Q. Haviv",
-      "shelf": "none",
+      "shelf": "currentReading",
       "book_id": 2
     },
     {
@@ -39,14 +39,14 @@
       "fileName": "6.jpg",
       "book_name": "Collaborative Web Development: Strategies and Best Practices for Web Teams",
       "author": "Jessica R. Burdman",
-      "shelf": "readDone",
+      "shelf": "currentReading",
       "book_id": 6
     },
     {
       "fileName": "7.jpg",
       "book_name": "HTML & CSS: Design and Build Web Sites",
       "author": "Jon Duckett",
-      "shelf": "readDone",
+      "shelf": "currentReading",
       "book_id": 7
     },
     {
@@ -60,36 +60,85 @@
       "fileName": "9.jpg",
       "book_name": "Eloquent JavaScript: A Modern Introduction to Programming",
       "author": "Marijn Haverbeke",
-      "shelf": "none",
+      "shelf": "currentReading",
       "book_id": 9
     },
     {
       "fileName": "10.jpg",
       "book_name": "Flask Web Development: Developing Web Applications with Python",
       "author": "Miguel Grinberg",
-      "shelf": "none",
+      "shelf": "currentReading",
       "book_id": 10
     },
     {
       "fileName": "11.jpg",
       "book_name": "JavaScript: The Good Parts",
       "author": "Douglas Crockford",
-      "shelf": "wantToRead",
+      "shelf": "currentReading",
       "book_id": 11
     },
     {
       "fileName": "12.jpg",
       "book_name": "Web Development with Node and Express: Leveraging the JavaScript Stack",
       "author": "Ethan Brown",
-      "shelf": "readDone",
+      "shelf": "currentReading",
       "book_id": 12
     },
     {
       "fileName": "13.jpg",
       "book_name": "Javascript: The Definitive Guide, 5th edition",
       "author": "David Flanagan",
-      "shelf": "none",
+      "shelf": "currentReading",
       "book_id": 13
+    },
+    {
+      "fileName": "14.jpg",
+      "book_name": "Json for Beginners: Your Guide to Easily Learn Json In 7 Days",
+      "author": "Icode Academy",
+      "shelf": "wantToRead",
+      "book_id": 14
+    },
+    {
+      "fileName": "15.jpg",
+      "book_name": "JSON Quick Syntax Reference",
+      "author": "Wallace Jackson",
+      "shelf": "readDone",
+      "book_id": 15
+    },
+    {
+      "fileName": "16.jpg",
+      "book_name": "JavaScript and JSON Essentials",
+      "author": "Sai Srinivas Sriparasa",
+      "shelf": "readDone",
+      "book_id": 16
+    },
+    {
+      "fileName": "17.jpg",
+      "book_name": "XML and JSON Recipes for SQL Server: A Problem-Solution Approach",
+      "author": "Alex Grinberg",
+      "shelf": "wantToRead",
+      "book_id": 17
+    },
+    {
+      "fileName": "18.jpg",
+      "book_name": "MySQL and JSON: A Practical Programming Guide",
+      "author": "David R. Stokes",
+      "shelf": "wantToRead",
+      "book_id": 18
+    },
+    {
+      "fileName": "19.jpg",
+      "book_name": "Pro RESTful APIs",
+      "author": "Sanjay Patni",
+      "shelf": "currentReading",
+      "book_id": 19
+    },
+    {
+      "fileName": "20.jpg",
+      "book_name": "Pro C# 5.0 and the .NET 4.5 Framework",
+      "author": "Andrew Troelsen",
+      "shelf": "currentReading",
+      "book_id": 20
     }
   ]
 }
