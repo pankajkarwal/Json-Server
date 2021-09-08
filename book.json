@@ -1,39 +1,46 @@
 {
+  "categories": {
+    "currentReading": "Currently Reading",
+    "wantToRead": "Want to Read",
+    "readDone": "Read Done",
+    "none": "None",
+    "shared": "Shared"
+  },
   "books": [
     {
       "fileName": "1.jpg",
       "book_name": "Mobile Web Development",
       "author": "Nirav Mehta",
-      "shelf": "none",
+      "shelf": "currentReading",
       "book_id": 1
     },
     {
       "fileName": "2.jpg",
       "book_name": "MEAN Web Development",
       "author": "Amos Q. Haviv",
-      "shelf": "currentReading",
+      "shelf": "shared",
       "book_id": 2
     },
     {
       "fileName": "3.jpg",
       "book_name": "C# Web Development with ASP.NET",
       "author": "Jose Mogica",
-      "shelf": "currentReading",
+      "shelf": "shared",
       "book_id": 3
     },
     {
       "fileName": "4.jpg",
       "book_name": "PHP and Mysql Web Development",
       "author": "Laura Thomson, Luke Welling",
-      "shelf": "readDone",
+      "shelf": "currentReading",
       "book_id": 4
     },
     {
-      "book_id": 5,
       "fileName": "5.jpg",
       "book_name": "Node Js MongoDB and Angular",
       "author": "Caleb Dayley",
-      "shelf": "readDone"
+      "shelf": "currentReading",
+      "book_id": 5
     },
     {
       "fileName": "6.jpg",
@@ -102,7 +109,7 @@
       "fileName": "15.jpg",
       "book_name": "JSON Quick Syntax Reference",
       "author": "Wallace Jackson",
-      "shelf": "readDone",
+      "shelf": "shared",
       "book_id": 15
     },
     {
@@ -116,7 +123,7 @@
       "fileName": "17.jpg",
       "book_name": "XML and JSON Recipes for SQL Server: A Problem-Solution Approach",
       "author": "Alex Grinberg",
-      "shelf": "wantToRead",
+      "shelf": "readDone",
       "book_id": 17
     },
     {
@@ -130,14 +137,14 @@
       "fileName": "19.jpg",
       "book_name": "Pro RESTful APIs",
       "author": "Sanjay Patni",
-      "shelf": "currentReading",
+      "shelf": "readDone",
       "book_id": 19
     },
     {
       "fileName": "20.jpg",
       "book_name": "Pro C# 5.0 and the .NET 4.5 Framework",
       "author": "Andrew Troelsen",
-      "shelf": "currentReading",
+      "shelf": "wantToRead",
       "book_id": 20
     }
   ]
