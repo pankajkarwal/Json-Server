@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "userid": 1,
+      "username": "Pankaj",
+      "company": "ACS",
+      "profile": "Trainee Software Engineer"
+    },
+    {
+      "userid": 2,
+      "username": "Sumit",
+      "company": "Google",
+      "profile": " Software Engineer"
+    },
+    {
+      "userid": 3,
+      "username": "Rohit",
+      "company": "Microsoft",
+      "profile": "Manager"
+    }
+  ]
+}

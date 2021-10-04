@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server --no-cors --id book_id --watch book.json"
+    "server": "json-server --no-cors --id user_id --watch users.json"
   },
   "keywords": [],
   "author": "",
